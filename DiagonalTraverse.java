@@ -1,4 +1,6 @@
-//Approach: 
+//Approach:  We will use flg to change the directiopn of traversing, updating indices on boundary conditions. 
+//TC: O(M*N)
+//SC: O(M*N)
 class Solution {
     public int[] findDiagonalOrder(int[][] mat) {
         int m = mat.length;
