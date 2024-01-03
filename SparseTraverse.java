@@ -1,4 +1,4 @@
-//Approach: We have used 4 pointers: top, bottom, left and right. 
+//Approach: We have used 4 pointers: top, bottom, left and right. We will iterate in clockwise direction starting from top-left corner.
 //Time complexity: O(m*n)
 //Space Complexity: O(m*n)
 
